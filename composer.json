@@ -1,0 +1,10 @@
+{
+    "name": "amar/askfm",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/App",
+            "Amar\\Askfm\\": "src/"
+        }
+    },
+    "require": {}
+}
